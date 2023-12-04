@@ -1,3 +1,8 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+/.env 
+/__pycache__/
+/.DS_Store 
+/*.pyc
+/token.txt
